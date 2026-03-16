@@ -29,5 +29,3 @@ Projects within this repository reference concepts from major cybersecurity and 
 - General cybersecurity risk management principles
 
 ---
-
-## Repository Structure
