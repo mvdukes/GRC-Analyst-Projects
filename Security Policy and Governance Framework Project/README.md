@@ -202,5 +202,3 @@ This project demonstrates practical **GRC Analyst competencies**, including:
 
 Malik Dukes  
 Governance, Risk, and Compliance (GRC) Project Portfolio
-
-This repository contains the following project artifacts:
